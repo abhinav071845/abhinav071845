@@ -1,9 +1,3 @@
-Absolutely. Since you're targeting **software jobs as an ECE fresher**, I'd keep the profile professional and recruiter-friendly rather than making it overly flashy.
-
-Create a **new public repository named exactly `abhinav071845`** on GitHub. GitHub will automatically use its `README.md` as your profile README.
-
-Here is the complete README I recommend:
-
 # Hi, I'm Abhinav Valluru 👋
 
 ### Aspiring Software Engineer | ECE Undergraduate | Python Developer
@@ -23,7 +17,9 @@ I'm working toward becoming a **Software Engineer**, with a particular interest 
 
 ## 🛠️ Tech Stack
 
-### Programming
+
+### Programming 
+Python,Java
 
 <p>
   <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
@@ -32,7 +28,7 @@ I'm working toward becoming a **Software Engineer**, with a particular interest 
 </p>
 
 ### Web & Backend
-
+HTML,CSS,JAVASCRIPT
 <p>
   <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)"/>
   <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>
@@ -42,6 +38,7 @@ I'm working toward becoming a **Software Engineer**, with a particular interest 
 </p>
 
 ### Database & Tools
+MYSQL
 
 <p>
   <img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)"/>
@@ -119,24 +116,9 @@ I'm currently focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=abhinav071845&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=abhinav071845&show_icons=true&theme=tokyonight&hide_border=true)" height="170"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav071845&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav071845&layout=compact&theme=tokyonight&hide_border=true)" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=abhinav071845&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=abhinav071845&theme=tokyo-night&hide_border=true)" />
-</p>
-
----
 
 ## 🤝 Let's Connect
+# abhinavvalluru18@gmail.com
 
 <p>
   <a href="[https://github.com/abhinav071845](https://github.com/abhinav071845)">

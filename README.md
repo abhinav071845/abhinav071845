@@ -39,6 +39,7 @@ HTML,CSS,JAVASCRIPT
 
 ### Database & Tools
 MYSQL
+GitHub,VScode,Colab,Jupyter Notebook
 
 <p>
   <img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)"/>
